@@ -1,9 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Noticias
-
-hg
-### `npm i @emotion/core @emotion/styled axios`
+App que busca noticias de una api, realizada con React. (En este curso se crea un CustomHook y la api es buscada simplemente con fetch)
 ### `npm start`
 ### `npm i react-transition-group `
 
