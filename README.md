@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Cotizador de Cryptomonedas
+## Noticias
 
 hg
 ### `npm i @emotion/core @emotion/styled axios`
